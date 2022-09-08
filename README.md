@@ -1,7 +1,8 @@
 ### Oie! Eu sou Claudiane Fidelis 
 
 - Em transição de carreira
-- Atualmente estudando JavaScript
+- Estudante de analise e desenvolvimento de sistemas
+- Buscando oportunidades na área tech
 
 ##
 
