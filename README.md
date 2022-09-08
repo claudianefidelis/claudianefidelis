@@ -2,7 +2,7 @@
 
 - Em transição de carreira
 - Estudante de analise e desenvolvimento de sistemas
-- Buscando oportunidades na área tech
+- Em busca de oportunidades profissionais na érea tech
 
 ##
 
